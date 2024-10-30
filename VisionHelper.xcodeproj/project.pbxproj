@@ -148,6 +148,7 @@
 				DEVELOPMENT_TEAM = 6DWJWLSP44;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = VisionHelper/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Please allow camera access to proceed.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -176,6 +177,7 @@
 				DEVELOPMENT_TEAM = 6DWJWLSP44;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = VisionHelper/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Please allow camera access to proceed.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
